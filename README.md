@@ -7,6 +7,9 @@ kafka Monitor 是一个对kafka进行实时监控的命令行工具。
 
 jdk1.8 及以上：
 
+编译方式：
+mvn clean package
+
 用法：
 
         $ java -jar kafkaMonitor-1.0.jar
