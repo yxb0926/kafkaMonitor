@@ -1,4 +1,4 @@
-#Kafka Monitor
+# Kafka Monitor
 
 kafka Monitor 是一个对kafka进行实时监控的命令行工具。
 目前只实现了相对简单的功能。后续会随着需求增加新的监控指标。
