@@ -5,10 +5,12 @@ kafka Monitor 是一个对kafka进行实时监控的命令行工具。
 
 原理是通过jmx获取响应监控值，并每隔1s打印到标准输出屏幕上。
 
+
+
 jdk1.8 及以上：
 
 编译方式：
-mvn clean package
+```mvn clean package```
 
 用法：
 
